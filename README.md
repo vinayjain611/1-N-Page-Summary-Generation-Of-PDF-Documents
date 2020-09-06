@@ -1,5 +1,7 @@
 # 1-N-Page-Summary-Generation-Of-PDF-Documents
 
+A summarizer which will give you summary of PDF document more faster than abstractive method of summarization.
+
 # 1.INTRODUCTION
 
 In a recent advance, the significance of text summarization accomplishes more attention due to data inundation on the web. Hence this information overwhelms yields in the big requirement for more reliable and capable progressive text summarizers. Text Summarization gains its importance due to its various types of applications just like the summaries of books, digest-(summary of stories), the stock market, news, Highlights-(meeting, event, sport), Abstract of scientific papers, newspaper articles, magazine etc. Due to its tremendous growth, many finest universities like Faculty of Informatics -Masaryk University, Czech Republic, Concordia University, Montreal, Canada-Semantic Software Lab, IHR Nexus Lab at Arizona State University, Arizona, USA and finally Lab of Topic Maps-Leipzig University, Germany has been persistently working on its rapid enhancements.
